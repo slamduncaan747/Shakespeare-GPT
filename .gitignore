@@ -1,0 +1,9 @@
+# Input data file
+input.txt
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
